@@ -47,6 +47,10 @@ This shows the most activity with the total customer base and you can see a patt
 **Summary**
 
   The data shows males seem to find the most value out of this service and may provide a market niche for the company to pursue. I would collect more data and see total number of subscribers to see if majority of my subscribers are men and then I would like to see how many women subscribers I have in order to access for valuble the woman demographic finds citibike service. This would then allow me to check to see why are people using citibike for example: do they use it for excercising, do they use it to commute, or simply easy transportation for sightseeing. This type of data would be helpful for the company to see how they can advance thier service and create new ways for the customer base to find value in the service.
+  
+**Link**
+
+[link to dashboard](https://public.tableau.com/app/profile/ryan.marshall3437/viz/Module_15_Citibike_tableau_story/Citi_Bike_Summary?publish=yes)
 
  
 
